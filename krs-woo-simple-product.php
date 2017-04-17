@@ -3,7 +3,7 @@
 Plugin Name: Woo Only Simple Product
 Plugin URI:  https://github.com/karskiy/woo-only-simple-product
 Description: Плагин отключает некоторые функции ВуКоммерс и оставляет минимум, что нужно для одиночного товара в админке при заполнении
-Version:     20170416
+Version:     20170417
 Author:      Karskiy
 Author URI:  https://profiles.wordpress.org/karsky
 License:     GPL2
