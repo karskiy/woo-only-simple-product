@@ -64,3 +64,5 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
       }
   }
 }
+
+add_action( 'admin_head', 'krs_woo_simple_product', 999 );
